@@ -1,0 +1,14 @@
+# Ignorar configurações do VS Code
+.vscode/
+
+# Ignorar binários gerados
+*.exe
+*.out
+*.o
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar pastas de build
+build/
